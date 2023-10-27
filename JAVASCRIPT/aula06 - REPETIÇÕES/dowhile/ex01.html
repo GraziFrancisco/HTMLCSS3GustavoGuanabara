@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Do While</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <h1>Estrutura de repetição  Do While</h1>
+    <p>Repita, enquanto!</p>
+    <div id="res">
+
+    </div> 
+
+    <script>
+        var c = 1
+        var res = document.getElementById('res')
+        do {
+            console.log(c)
+            res.innerHTML += `Passo ${c}. <br>`
+            c++
+        } while (c <= 7)
+    </script>
+</body>
+</html>
