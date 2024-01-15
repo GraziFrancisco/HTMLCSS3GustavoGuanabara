@@ -1,3 +1,6 @@
 # HTMLCSS3GustavoGuanabara
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, sapiente eaque? Assumenda quo sed voluptas odio laboriosam ab adipisci itaque! Atque recusandae sapiente laboriosam nesciunt vitae, quas voluptates nihil accusamus! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam debitis, aliquid iure eos velit deserunt voluptatum sint blanditiis quas nam aut quae non ipsum exercitationem, officiis explicabo possimus nostrum nisi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam repellat, quia unde laboriosam dolorum recusandae illo cumque, dignissimos id repellendus fugit, commodi fuga enim deserunt explicabo. Mollitia reiciendis voluptatum et.
+Estudante apaixonada por tecnologia!
+
+    <a href="https://grazifrancisco.github.io/HTMLCSS3GustavoGuanabara/HTML-CSS/DESAFIOS/d010/android.html"></a>
+    
