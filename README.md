@@ -2,5 +2,5 @@
 
 Estudante apaixonada por tecnologia!
 
-    <a href="https://grazifrancisco.github.io/HTMLCSS3GustavoGuanabara/HTML-CSS/DESAFIOS/d010/android.html"></a>
+<a href="https://grazifrancisco.github.io/HTMLCSS3GustavoGuanabara/HTML-CSS/DESAFIOS/d010/android.html"></a>
     
